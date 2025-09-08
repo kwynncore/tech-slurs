@@ -42,3 +42,4 @@ don't let a developer hear these words
 - clean code
 - requirements
 - stakeholders
+- shower
