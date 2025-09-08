@@ -43,3 +43,4 @@ don't let a developer hear these words
 - requirements
 - stakeholders
 - how can we add ai to this?
+- shower
